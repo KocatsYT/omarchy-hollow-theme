@@ -25,4 +25,4 @@ white   = "#9eebb3"
 
 [colors.cursor]
 text   = "#0d74f2"
-cursor = "85eff5"
+cursor = "#85eff5"
